@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faisalkhan-dev
 - 👀 I’m interested in programming,development and problem-solving
 - 🌱 I’m currently learning Java ,ReactJs
-- 💞️ I’m looking to collaborate on Twitter,Linkedln & Github
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Twitter & Linkedln 
+- 📫 How to reach me www.linkedin.com/in/faisalkhan10 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: following USA routine
 
