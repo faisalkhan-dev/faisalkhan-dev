@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faisalkhan-dev
 - 👀 I’m interested in programming,development and problem-solving
-- 🌱 I’m currently learning JavaScript and doing DSA in Java.
+- 🌱 I’m currently learning ReactJs and doing DSA in Java + MySQL.
 - 💞️ I’m looking to collaborate on Twitter & Linkedln 
 - 📫 How to reach me www.linkedin.com/in/faisalkhan10 
 - 😄 Pronouns: He/Him
