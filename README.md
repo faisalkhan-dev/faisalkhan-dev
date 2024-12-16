@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faisalkhan-dev
 - 👀 I’m interested in Learning,Building and Problem-Solving
-- 🌱 I’m currently learning DSA in JAva,ReactJs and MySQl
+- 🌱 I’m currently learning DSA in Java,ReactJs and MySQL
 - 💞️ I’m looking to collaborate on @linkedln @twitter
 - 📫 How to reach me @linkedln
 - 😄 Pronouns: He
